@@ -1,0 +1,4 @@
+C:\Users\surpl\OneDrive\Desktop\2-SAVARANKISKAS_DARBAS-main\x64\Debug\Studentu_Zurnalas.vcxproj.AssemblyReference.cache
+C:\Users\surpl\OneDrive\Desktop\2-SAVARANKISKAS_DARBAS-main\x64\Debug\Studentu_Zurnalas.Form1.resources
+C:\Users\surpl\OneDrive\Desktop\2-SAVARANKISKAS_DARBAS-main\x64\Debug\Studentu_Zurnalas.vcxproj.GenerateResource.cache
+C:\Users\surpl\OneDrive\Desktop\2-SAVARANKISKAS_DARBAS-main\x64\Debug\Studentu_Zurnalas.exe

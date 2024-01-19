@@ -1,0 +1,4 @@
+C:\Users\SystemX\source\repos\Studentu_Zurnalas\x64\Debug\Studentu_Zurnalas.vcxproj.AssemblyReference.cache
+C:\Users\SystemX\source\repos\Studentu_Zurnalas\x64\Debug\Studentu_Zurnalas.Form1.resources
+C:\Users\SystemX\source\repos\Studentu_Zurnalas\x64\Debug\Studentu_Zurnalas.vcxproj.GenerateResource.cache
+C:\Users\SystemX\source\repos\Studentu_Zurnalas\x64\Debug\Studentu_Zurnalas.exe

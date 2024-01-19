@@ -1,0 +1,9 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\SystemX\source\repos\Studentu_Zurnalas\Form1.h(409,34): warning C4566: character represented by universal-character-name '\u012E' cannot be represented in the current code page (1252)
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\SystemX\source\repos\Studentu_Zurnalas\Form1.h(409,34): warning C4566: character represented by universal-character-name '\u012F' cannot be represented in the current code page (1252)
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Studentu_Zurnalas.vcxproj -> C:\Users\SystemX\source\repos\Studentu_Zurnalas\x64\Debug\Studentu_Zurnalas.exe
